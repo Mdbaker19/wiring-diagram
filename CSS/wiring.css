@@ -1,0 +1,18 @@
+body{
+    background-color: #6a6a6a;
+}
+
+#circuit{
+    margin: 5vh auto;
+    width: 75vw;
+    height: 75vh;
+    border: 5px solid #6a6a6a;
+}
+#loadSpot1{
+    background-color: aliceblue;
+    width: 100px;
+    height: 100px;
+}
+#switch{
+    margin-top: 5em;
+}
